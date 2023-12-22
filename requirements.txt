@@ -1,0 +1,6 @@
+# For displaying images in IPython environment
+IPython==7.28.0
+Pillow==8.4.0
+
+# For creating GIFs with MoviePy
+moviepy==1.0.3
